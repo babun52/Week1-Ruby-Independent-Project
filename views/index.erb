@@ -1,10 +1,16 @@
-<h1></h1>
-<form action="/count">
-  <div class="form-group">
-    <label for="string">sentence: </label>
-    <input name="string" class="form-control" type="text">
-    <label for="word">word: </label>
-    <input name="word" class="form-control" type="text">
+<div class="jumbotron">
+  <h1>Word Count</h1>
+</div>
+<div class="container">
+  <div class="col-md-8">
+    <form action="/count">
+      <div class="form-group">
+        <label for="string">Enter a string: </label>
+        <textarea name="string" class="form-control" rows="3" placeholder="String input"></textarea><br>
+        <label for="word">Enter a word: </label>
+        <textarea name="word" class="form-control" rows="1" placeholder="Word input"></textarea>
+      </div>
+      <button type="submit" class="btn-success">Check!</button>
+    </form>
   </div>
-  <button type="submit" class="btn-success">Check</button>
-</form>
+</div>
