@@ -1,6 +1,6 @@
 # _Word Count_
 
-#### _Ruby Week 1 Independent Project, November 18th, 2016_
+#### _Ruby Week 1 Independent Project, {November 18th, 2016}_
 
 #### By _**James Lee**_
 
