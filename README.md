@@ -11,9 +11,11 @@ _A website that uses a method to return how frequently a word appears in a given
 ## Setup/Installation Requirements
 
 * _Clone this repository_
-* __
+* _Run $ bundle_
+* _Run $ ruby app.rb_
+* _Browse localhost:4567 in your web browser_
 
-
+* _Heroku: _
 
 ## Specification
 
