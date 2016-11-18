@@ -2,8 +2,10 @@
   <h1>The Result: </h1>
 </div>
 <div class="container">
-  String you enter: <h3> <%= @string %></h3><br>
-  Word you look for: <h3> <%= @word %></h3><br>
-  Number of count: <h2> <%= @result %></h2>
+  <div class="col-md-8">
+    String you enter: <h3> <%= @string %></h3><br>
+    Word you look for: <h3> <%= @word %></h3><br>
+    Number of count: <h2> <%= @result %></h2>
+    <a href="/"><button type="button" class="btn btn-primary">Try Again!</button></a>
+  </div>
 </div>
-<a href="/"><button type="button" class="btn btn-primary">Try Again!</button></a>
