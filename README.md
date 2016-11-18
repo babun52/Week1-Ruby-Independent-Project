@@ -17,7 +17,7 @@ _A website that uses a method to return how frequently a word appears in a given
 
 ## Specification
 
-* _return how frequently a word appears in a given string as the user input both the word and the string of words_
+* _The application will return how frequently a word appears in a given string as the user input both the word and the string of words_
 
  * _Word Input: "peck"_
  * _String Input: String Input: "If Peter Piper picked a peck of pickled peppers, where's the peck of pickled peppers Peter Piper picked?"_
