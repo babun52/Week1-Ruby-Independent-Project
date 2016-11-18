@@ -15,7 +15,7 @@ _A website that uses a method to return how frequently a word appears in a given
 * _Run $ ruby app.rb_
 * _Browse localhost:4567 in your web browser_
 
-* _Heroku: _
+* _Heroku: https://polar-fortress-18113.herokuapp.com/_
 
 ## Specification
 
